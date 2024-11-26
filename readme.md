@@ -1,38 +1,32 @@
-<h1 align="left">Olá 👋, Tudo bem?</h1>
+<h1 align="left">Hey 👋, what's up?</h1>
 
 ###
 
-<p align="left">Meu nome é Lucas e eu moro no Brasil!</p>
+<p align="left">My name is Lucas, i live in Brazil!</p>
 
 ###
 
-<h2 align="left">Sobre Mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estou aprendendo Java e Inglês.<br>🎯 Objetivos: Viajar para o EUA.<br>🎲 Curiosidade: Gosto de estudar.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 At the moment i'm study english and programming.</p>
 
 ###
 
-<h2 align="left">Conhecimentos</h2>
+<h2 align="left">Knowledge</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=spring,java,javascript,html,git,linux,mysql" />
+  </a>
+</p>
 
 ###
 
-<h2 align="left">Contato</h2>
+<h2 align="left">Contact</h2>
 
 ###
 
