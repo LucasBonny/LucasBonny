@@ -1,8 +1,35 @@
-<h1 align="left">Hey 👋, what's up?</h1>
+<h1 align="left">Hey 👋, what's up?<img src="https://skillicons.dev/icons?i=devto" /></h1>
 
 ###
 
 <p align="left">My name is Lucas, i live in Brazil!</p>
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=LucasBonny&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBonny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=LucasBonny&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -21,6 +48,18 @@
 <p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=spring,java,javascript,html,git,linux,mysql" />
+  </a>
+</p>
+
+###
+
+<h2 align="left">Tools</h2>
+
+###
+
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vscode,aws,docker,eclipse,postman,postgres" />
   </a>
 </p>
 
@@ -52,3 +91,13 @@
 </div>
 
 ###
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
