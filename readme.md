@@ -39,7 +39,7 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=spring,java,javascript,html,git,linux,mysql" />
+    <img src="https://skillicons.dev/icons?i=spring,java,html,css,javascript,git,linux,mysql" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode,aws,docker,eclipse,postman,postgres" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,aws,docker,eclipse,postman,postgres" />
   </a>
 </p>
 
